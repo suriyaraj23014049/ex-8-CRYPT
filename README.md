@@ -12,7 +12,7 @@ To use Advanced Encryption Standard (AES) Algorithm for a practical application 
 4.AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 ## PROGRAM:
-
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -39,6 +39,7 @@ int main() {
 
     return 0;
 }
+```
 
 
 OUTPUT:
